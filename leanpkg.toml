@@ -4,5 +4,5 @@ version = "0.1"
 timeout = 20000
 
 [dependencies]
-stdlib = {git = "https://github.com/leanprover/stdlib.git", rev = "64b61515b750c85ccb4f9871a6508bdc16e9dddc"}
+stdlib = {git = "https://github.com/leanprover/stdlib.git", rev = "fb6bab2728058cc2d605c910d936a7e6693e95df"}
 super = {git = "https://github.com/leanprover/super.git", rev = "5cd97e8c1aece346909907648330220afe7ad7d0"}
